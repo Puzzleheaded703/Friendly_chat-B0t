@@ -1,0 +1,4 @@
+# Friendly_chat-B0t
+I made this pyhton scrypt to test a few ideas that I got from a few online tutorials.
+OMG WHAT IS THIS??? IT'S LIKE YOU OPENED AN ALIEN COMPUTER INTERFACE THAT HAS GOTTEN ALL SORTS OF CRAZY BITS AND BUGS THAT YOU'D NEED TO HAVE A 200 IQ TO UNDERSTAND.
+KINDA CRAZY!
